@@ -1,0 +1,9 @@
+[init]
+	defaultBranch = main
+[pull]
+	rebase = false
+[core]
+	autocrlf = false
+[user]
+	name = Yarid Flor
+	email = e.lab.yarid.flor@cali.edu.co
